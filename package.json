@@ -1,15 +1,14 @@
 {
   "name": "webdevp3",
-  "version": "0.0.0",
-  "private": true,
+  "version": "0.0.2",
   "scripts": {
     "start": "node ./bin/www"
   },
   "dependencies": {
     "ejs": "^2.4.1",
-    "express": "~4.13.1",
+    "express": "~4.13.1"
   },
   "engines": {
-    "node": "0.12.7"
+    "node": "0.10.29"
   }
 }
